@@ -1,17 +1,18 @@
-# date_picker_app
+# Flutter Date Picker Demo
 
-A new Flutter project.
+This is a simple event registration demo showing how to use Flutter’s Date Picker widget.
 
-## Getting Started
+## How to Run
 
-This project is a starting point for a Flutter application.
+1. Clone the repository
+2. Run `flutter pub get`
+3. Run `flutter run`
 
-A few resources to get you started if this is your first Flutter project:
+## Three Date Picker Properties Demonstrated
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+- initialDate → sets the default opening date.
+- firstDate → sets the minimum selectable date.
+- lastDate → sets the maximum selectable date.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshot
+<img width="1920" height="1080" alt="Embedded UI-Hauwa Bello" src="https://github.com/user-attachments/assets/13e6bc71-b0ee-4314-a3af-14ec4c60dac8" />
